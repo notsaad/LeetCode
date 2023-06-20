@@ -9,3 +9,4 @@ June 15th: Valid Sudoku, Valid Parentheses, Longest Consecutive Subsequence, Two
 | 20 | Valid Parentheses | June 15th, 2023 | Basic stack problem |
 | 167 | Two Sum II - Input Array is Sorted | June 15th, 2023 | Basic 2 pointers problem |
 | 20 | Longest Consecutive Subsequence | June 15th, 2023 | Convert the list into a set and search that when using the "in" keyword (O(n) vs O(1)) and find starting of subsequnce by checking if the number -1 is in the set |
+| 11 | Container with Most Water | June 19th, 2023 | Use two pointers, increment the lesser of the two heights
