@@ -12,3 +12,4 @@ June 15th: Valid Sudoku, Valid Parentheses, Longest Consecutive Subsequence, Two
 | 11 | Container with Most Water | June 19th, 2023 | Use two pointers, increment the lesser of the two heights
 | 2390 | Removing Stars From String | June 20th, 2023 | Use a basic stack
 | 495 | Teemo Attacking | June 20th, 2023 | Keep an updated running count of the poison duration for each loop iteration and add the difference of that and the current value + poison duration
+| 1108 | Defanging and IP Address | June 21st, 2023 | Basic stack question
