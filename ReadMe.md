@@ -11,3 +11,4 @@ June 15th: Valid Sudoku, Valid Parentheses, Longest Consecutive Subsequence, Two
 | 20 | Longest Consecutive Subsequence | June 15th, 2023 | Convert the list into a set and search that when using the "in" keyword (O(n) vs O(1)) and find starting of subsequnce by checking if the number -1 is in the set |
 | 11 | Container with Most Water | June 19th, 2023 | Use two pointers, increment the lesser of the two heights
 | 2390 | Removing Stars From String | June 20th, 2023 | Use a basic stack
+| 495 | Teemo Attacking | June 20th, 2023 | Keep an updated running count of the poison duration for each loop iteration and add the difference of that and the current value + poison duration
