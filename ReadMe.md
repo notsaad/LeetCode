@@ -1,5 +1,5 @@
-Keeping Track of all of the LeetCode Problems I do.
-Goal: To Complete 2-3 a day.
+Keeping Track of all of the LeetCode Problems I do. <br>
+Goal: To Complete 2-3 a day. <br> <br>
 
 
 | Problem # | Problem Name | Date Completeed | Notes About Solution |
