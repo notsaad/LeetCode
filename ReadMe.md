@@ -12,3 +12,4 @@ Goal: To Complete 2-3 a day. <br> <br>
 | 2390 | Removing Stars From String | June 20th, 2023 | Use a basic stack
 | 495 | Teemo Attacking | June 20th, 2023 | Keep an updated running count of the poison duration for each loop iteration and add the difference of that and the current value + poison duration
 | 1108 | Defanging and IP Address | June 21st, 2023 | Basic stack question
+| 155 | Min Stack | June 22nd, 2023 | Majority of the question was able to be done using built in python functions, getMin() was done using python min() function between the new value that is to be inserted and the old value
